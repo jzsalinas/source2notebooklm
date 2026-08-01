@@ -28,7 +28,7 @@ NotebookLM es ideal para analizar código, generar documentación, explicaciones
 No requiere instalación de paquetes. Solo clona el repositorio o descarga el script `source2notebooklm.py`:
 
 ```bash
-git clone https://github.com/tu-usuario/source2notebooklm.git
+git clone https://github.com/jzsalinas/source2notebooklm.git
 cd source2notebooklm
 ```
 
