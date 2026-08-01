@@ -122,4 +122,4 @@ Options:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](file:///home/jzsalinas/Documents/antigravity/source2notebooklm/LICENSE) para obtener más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
